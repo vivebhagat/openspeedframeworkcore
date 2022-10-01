@@ -1,0 +1,31 @@
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.deps.json
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.runtimeconfig.json
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.runtimeconfig.dev.json
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.dll
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.pdb
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.csprojAssemblyReference.cache
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.AssemblyInfoInputs.cache
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.AssemblyInfo.cs
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.csproj.CopyComplete
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.dll
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.pdb
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.genruntimeconfig.cache
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.deps.json
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.runtimeconfig.json
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.runtimeconfig.dev.json
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.dll
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\DAO.pdb
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.csproj.AssemblyReference.cache
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.AssemblyInfoInputs.cache
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.AssemblyInfo.cs
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.csproj.CoreCompileInputs.cache
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.csproj.CopyComplete
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.dll
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.pdb
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\DAO\obj\Debug\netcoreapp3.1\DAO.genruntimeconfig.cache

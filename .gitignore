@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/APIlib/logs
+/APIlib/obj
+/SpeedFrameworksCore/Data
+/SpeedFrameworksCore/obj/Debug
+/SPFDaoTest/bin/Debug/netcoreapp3.1
+/APIlib/bin/Debug
+/Common/bin/Debug/netcoreapp3.1
+/DAO/bin/Debug/netcoreapp3.1
+/SpeedFrameworksCore/bin/Debug

@@ -1,0 +1,113 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CS-Script" Version="3.30.5.1" />
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CQ\Access\InternalUserCQ\Command\" />
+    <Folder Include="CQ\Access\InternalUserCQ\Query\" />
+    <Folder Include="CQ\Access\OrganizationCQ\Command\" />
+    <Folder Include="CQ\Access\OwnershipEntityAccessCQ\Command\" />
+    <Folder Include="CQ\Access\OwnershipEntityAccessCQ\Query\" />
+    <Folder Include="CQ\Access\PageAccessCQ\Command\" />
+    <Folder Include="CQ\Access\UserDefinedRoleCQ\Command\" />
+    <Folder Include="CQ\Access\UserDefinedRoleCQ\Query\" />
+    <Folder Include="CQ\Access\UserDefinedToUserMapCQ\Command\" />
+    <Folder Include="CQ\Access\UserDefinedToUserMapCQ\Query\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationCQ\Command\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationCQ\Query\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationTemplateCQ\Command\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationTemplateCQ\Query\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationTemplateRoleRecieverMapCQ\Command\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationTemplateRoleRecieverMapCQ\Query\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationTemplateUserRecieverMapCQ\Command\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationTemplateUserRecieverMapCQ\Query\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationTypeCQ\Command\" />
+    <Folder Include="CQ\Custom\Communication\CommunicationTypeCQ\Query\" />
+    <Folder Include="CQ\Custom\Entity\ApplicationEntityAccessExpressionCQ\Command\" />
+    <Folder Include="CQ\Custom\Entity\ApplicationEntityAccessExpressionCQ\Query\" />
+    <Folder Include="CQ\Custom\Entity\ApplicationEntityCQ\Command\" />
+    <Folder Include="CQ\Custom\Entity\ApplicationEntityCQ\Query\" />
+    <Folder Include="CQ\Custom\Entity\ApplicationEntityPropertyCQ\Command\" />
+    <Folder Include="CQ\Custom\Entity\ApplicationEntityPropertyCQ\Query\" />
+    <Folder Include="CQ\Custom\FileSystem\ServerDirectoryCQ\Command\" />
+    <Folder Include="CQ\Custom\FileSystem\ServerDirectoryCQ\Query\" />
+    <Folder Include="CQ\Custom\Filter\FilterCQ\Command\" />
+    <Folder Include="CQ\Custom\Filter\FilterCQ\Query\" />
+    <Folder Include="CQ\Custom\Filter\FilterFieldCQ\Command\" />
+    <Folder Include="CQ\Custom\Filter\FilterFieldCQ\Query\" />
+    <Folder Include="CQ\Custom\Filter\FilterListCQ\Command\" />
+    <Folder Include="CQ\Custom\Filter\FilterListCQ\Query\" />
+    <Folder Include="CQ\Custom\Filter\FilterResultFieldCQ\Command\" />
+    <Folder Include="CQ\Custom\Filter\FilterResultFieldCQ\Query\" />
+    <Folder Include="CQ\Custom\Misc\GlobalCQ\Command\" />
+    <Folder Include="CQ\Custom\Misc\GlobalCQ\Query\" />
+    <Folder Include="CQ\Custom\Script\ScriptCQ\" />
+    <Folder Include="CQ\Custom\Script\EntityScriptCQ\" />
+    <Folder Include="CQ\Custom\Script\" />
+    <Folder Include="CQ\Custom\StateMachine\StateActionStatementCQ\" />
+    <Folder Include="CQ\Custom\StateMachine\StateActionAccessCQ\" />
+    <Folder Include="CQ\Custom\StateMachine\StateActionCQ\" />
+    <Folder Include="CQ\Custom\UiSetup\FieldCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\FieldCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\FieldTypeCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\FieldTypeCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\FormApplicationEntityMapCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\FormApplicationEntityMapCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\FormEventCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\FormEventCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\FormFieldMapCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\FormFieldMapCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\FormCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\FormCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\OptionListCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\OptionListCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\OptionCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\OptionCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\PageLinkCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\PageLinkCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\FieldEventCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\FieldEventCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\DashboardCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\DashboardCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\CustomPageCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\CustomPageCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\CustomPageLinkCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\CustomPageLinkCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetParameterTypeCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetParameterTypeCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetTypeCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetTypeCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetTemplateCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetTemplateCQ\Query\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetParameterCQ\Command\" />
+    <Folder Include="CQ\Custom\UiSetup\WidgetSetup\WidgetParameterCQ\Query\" />
+    <Folder Include="CQ\Generic\" />
+    <Folder Include="CQ\Misc\" />
+  </ItemGroup>
+
+</Project>

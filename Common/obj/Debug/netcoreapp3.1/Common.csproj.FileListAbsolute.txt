@@ -1,0 +1,18 @@
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Vivek.bhagat\source\repos\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\vivek\Desktop\Transfer laptop\SpeedFrameworksCore\SpeedFrameworksCore\Common\obj\Debug\netcoreapp3.1\Common.pdb
